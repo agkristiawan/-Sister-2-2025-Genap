@@ -1,6 +1,6 @@
 # -Sister-2-2025-Genap
-Youtube: 
-Github: https://github.com/agkristiawan/-Sister-2-2025-Genap
+- Youtube: 
+- Github: https://github.com/agkristiawan/-Sister-2-2025-Genap
 
 How to use:
 1. Run ```docker build -t html-api .``` to build Docker image
